@@ -59,11 +59,13 @@ new FFA-based pulsar search pipeline and it's new discoveries can be found
 ## Sky Coverage
 
 <br/><br/>
+<div align="center">
 <img
-    src="../skycov.png"
     alt="Sky Coverage"
-    align="center"
+    src="https://raw.githubusercontent.com/GHRSS/.github/main/skycov.png"
 />
+</div>
+<br/><br/>
 <br/><br/>
 
 **GHRSS survey sky coverage and discoveries**: Part of the target sky that has

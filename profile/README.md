@@ -2,13 +2,14 @@
 <div align="justify">
 
 The **G**MRT **H**igh **R**esolution **S**outhern **S**ky (**GHRSS**) survey is
-a blind survey for pulsars and radio transients that scans the southern sky
-visible from the **G**iant **M**eterwave **R**adio **T**elescope (**GMRT**). The
-sky coverage of the survey has been plotted below. The survey was carried out in
-two distinct phases: Phase 1, which used the legacy GMRT system with a 32 MHz
+an ongoing blind survey for pulsars and radio transients that scans the southern
+sky visible from the **G**iant **M**eterwave **R**adio **T**elescope (**GMRT**).
+The sky coverage of the survey has been plotted below. The survey has two
+distinct phases: Phase 1, which used the legacy GMRT system with a 32 MHz
 bandwidth, centered at 322 MHz, and Phase 2, which is still ongoing, and uses
 the upgraded GMRT system, with a 200 MHz bandwidth, centered at 400 MHz.
 
+<br/>
 <div align="center">
 <img
     alt="Sky Coverage"

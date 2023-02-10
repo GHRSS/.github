@@ -1,69 +1,66 @@
 <div style="font-family:JetBrainsMono Nerd Font">
-<div align="center">
-
-# The GMRT High Resolution Southern Sky (GHRSS) Survey
-
-</div>
-
 <div align="justify">
 
-## Contents
+The **G**MRT **H**igh **R**esolution **S**outhern **S**ky (**GHRSS**) survey is
+a blind survey for pulsars and radio transients that scans the southern sky
+visible from the **G**iant **M**eterwave **R**adio **T**elescope (**GMRT**). The
+sky coverage of the survey has been plotted below. The survey was carried out in
+two distinct phases: Phase 1, which used the legacy GMRT system with a 32 MHz
+bandwidth, centered at 322 MHz, and Phase 2, which is still ongoing, and uses
+the upgraded GMRT system, with a 200 MHz bandwidth, centered at 400 MHz.
 
-* [**Papers**](#papers)
-* [**Members**](#members)
-* [**Discoveries**](#discoveries)
-* [**Sky Coverage**](#sky-coverage)
+<div align="center">
+<img
+    alt="Sky Coverage"
+    src="https://raw.githubusercontent.com/GHRSS/.github/main/skycov.png"
+/>
+</div>
+<br/><br/>
 
-<details>
-<summary><h2>Papers</h2></summary>
-<br/>
+**GHRSS survey sky coverage and discoveries**: Part of the target sky that has
+already been covered by the survey is marked as a deep blue shaded region. Part
+of the sky that has not yet been covered by the survey is marked as a light blue
+shaded region. **Image Credit** : [Shreya Prabhu (NIUS student)][shreya].
 
-* Survey Results:
+### Members
 
-    * Paper 1: [![arXiv1][arXiv1-badge]][arXiv1]
-    * Paper 2: [![arXiv1][arXiv2-badge]][arXiv2]
-    * Paper 3: [![arXiv1][arXiv3-badge]][arXiv3]
-
-<br/>
-
-* Others:
-
-    * [![misc1][misc1-badge]][misc1]
-    * [![misc2][misc2-badge]][misc2]
-    * [![misc2][misc2-badge]][misc2]
-
-<br/>
-</details>
-
-<details>
-<summary><h2>Members</h2></summary>
-<br/>
-
-* Bhaswati Bhattacharyya (NCRA)
-* Jayanta Roy (NCRA)
+* [Bhaswati Bhattacharyya (NCRA)][bhaswati]
+* [Jayanta Roy (NCRA)][jayanta]
 * Ben W. Stappers (University of Manchester)
-* Michael Keith (University of Manchester)
-* Mateusz Malenta (University of Manchester)
+* [Michael Keith (University of Manchester)][michael]
+* [Mateusz Malenta (University of Manchester)][mateusz]
 * Maura A. McLaughlin (Univ. of West Virginia)
-* Paul S. Ray (Naval Research Laboratory)
-* Scott M. Ransom (National Radio Astronomy Observatory)
+* [Paul S. Ray (Naval Research Laboratory)][paul]
+* [Scott M. Ransom (National Radio Astronomy Observatory)][scott]
 * Jayaram N. Chengalur (NCRA)
 * Andrew G. Lyne (University of Manchester)
 * Sanjay Kudale (NCRA)
-* Ujjwal Panda (NCRA)
+* [Ujjwal Panda (NCRA)][upanda]
 * Shubham Singh (NCRA)
-* Wes Armour (University of Oxford)
-* Karel Adámek (Silesian University)
+* [Wes Armour (University of Oxford)][wes]
+* [Karel Adámek (Silesian University)][karel]
 * Shyam Sunder (NCRA)
 * Sangeeta Kumari (NCRA)
 
+### Publications
+
+1. [*Search for pulsars and transients with the GMRT.*](https://arxiv.org/abs/1712.04518)
+2. [*Time-domain Astronomy with the GMRT: uGMRT to eGMRT.*](https://arxiv.org/abs/1801.02826)
+3. [*Post-correlation beamformer for time-domain studies of pulsars and transients*](https://arxiv.org/abs/1808.01088)
+4. [*The GHRSS Survey; Paper I: Survey description and initial discoveries.*](https://arxiv.org/pdf/1509.07177.pdf)
+5. [*The GHRSS Survey; Paper II: New discoveries, timing and polarization properties*](https://arxiv.org/abs/1906.09574)
+6. [*The GHRSS Survey; Paper III: Searching for long period pulsars.*](https://arxiv.org/abs/2206.00427)
+7. [*The GHRSS Survey; Paper IV: Discovery of 4 new pulsars with an FFA search.*](https://arxiv.org/abs/2210.16650)
+
+### Discoveries
+
+The table below lists all discoveries from the GHRSS survey; out of these, Phase
+1 accounts for 13 discoveries, while Phase 2 accounts for 14 discoveries till
+now. A total of 31 discoveries has been made via the survey, which includes 2
+MSPs, 2 mildly recycled pulsars, and 3 RRATs (a.k.a. **r**otating **ra**dio
+**t**ransients).
+
 <br/>
-</details>
-
-<details>
-<summary><h2>Discoveries</h2></summary>
-
-<br/><br/>
 <div align="center">
 
 |   Name         |     Type         |    Period (ms)     |    DM (pc/cc)     |    Flux density(mJy) |
@@ -100,54 +97,19 @@
 |   J2059-48     |     MSP          |    9.48            |    25.04          |    -                 |
 |   J2144-5237   |     MSP          |    5.04            |    19.0           |    1.6               |
 
-<br/><br/>
-</div>
-</details>
-
-
-<details>
-<summary><h2>Sky Coverage</h2></summary>
-
-<br/><br/>
-<div align="center">
-<img
-    alt="Sky Coverage"
-    src="https://raw.githubusercontent.com/GHRSS/.github/main/skycov.png"
-/>
-</div>
-<br/><br/>
-<br/><br/>
-
-**GHRSS survey sky coverage and discoveries**: Part of the target sky that has
-already been covered by the survey is marked as a deep blue shaded region. Part
-of the sky that has not yet been covered by the survey is marked as a light blue
-shaded region. **Image Credit** : [***Shreya Prabhu (NIUS student)***][shreya].
-
-</div>
-</details>
-
 </div>
 
-[upanda]: https://github.com/astrogewgaw
-[shreya]: https://github.com/shreyaprabhu19
+</div>
 
 [gmrt]: http://gmrt.ncra.tifr.res.in
-[paper2]: https://doi.org/10.3847/1538-4357/ab2bf3
-[paper3]: https://doi.org/10.3847/1538-4357/ac7b91
-[paper1]: https://doi.org/10.3847/0004-637X/817/2/130
-[ghrss]: http://www.ncra.tifr.res.in/~bhaswati/GHRSS.html
 
-[arXiv1]: https://arxiv.org/abs/1509.07177
-[arXiv2]: https://arxiv.org/abs/1906.09574
-[arXiv3]: https://arxiv.org/abs/2206.00427
-
-[misc1]: https://arxiv.org/abs/1712.04518
-[misc2]: https://arxiv.org/abs/1801.02826
-[misc3]: https://arxiv.org/abs/1808.01088
-
-[misc1-badge]: http://img.shields.io/badge/astro.ph-1712.04518-B31B1B.svg?style=for-the-badge
-[misc2-badge]: http://img.shields.io/badge/astro.ph-1801.02826-B31B1B.svg?style=for-the-badge
-[misc3-badge]: http://img.shields.io/badge/astro.ph-1808.01088-B31B1B.svg?style=for-the-badge
-[arXiv1-badge]: http://img.shields.io/badge/astro.ph-1509.07177-B31B1B.svg?style=for-the-badge
-[arXiv2-badge]: http://img.shields.io/badge/astro.ph-1906.09574-B31B1B.svg?style=for-the-badge
-[arXiv3-badge]: http://img.shields.io/badge/astro.ph-2206.00427-B31B1B.svg?style=for-the-badge
+[paul]: https://github.com/paulray
+[wes]: https://github.com/wesarmour
+[karel]: https://github.com/KAdamek
+[mateusz]: https://github.com/mmalenta
+[michael]: https://github.com/SixByNine
+[scott]: https://github.com/scottransom
+[upanda]: https://github.com/astrogewgaw
+[shreya]: https://github.com/shreyaprabhu19
+[jayanta]: https://github.com/jayanta-frb-psr
+[bhaswati]: https://github.com/bhaswatibhattacharyya
